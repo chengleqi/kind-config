@@ -1,0 +1,1 @@
+https_proxy="" http_proxy="" all_proxy="" kind create cluster --config config.yaml --name cluster
